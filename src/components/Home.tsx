@@ -1,4 +1,4 @@
-import React, { useState, useEffect, lazy, Suspense } from 'react'
+import { useState, useEffect, lazy, Suspense } from 'react'
 import { Github, Linkedin, Instagram } from "lucide-react";
 
 // Lazy load Spline to improve initial load time
